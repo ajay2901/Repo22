@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92086825611",
+    "project_id": "repo-collection",
+    "storage_bucket": "repo-collection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92086825611:android:c17eb41b3a4157f67b1a8e",
+        "android_client_info": {
+          "package_name": "com.t2dev.repo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92086825611-ks05ia67ricc8buttj7t3bb4tait1rud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhqAk5dbwyGDQsWqw4aM9d-z_gxG_q20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92086825611-ks05ia67ricc8buttj7t3bb4tait1rud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
